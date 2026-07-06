@@ -8,8 +8,6 @@
 >
 >开发工具：MDK Keil5，CubeMX， PyCharm， MATLAB
 
-[TOC]
-
 #### Lissajous Figures
 
 >   [百度百科-利萨如图形]: https://baike.baidu.com/item/%E5%88%A9%E8%90%A8%E5%A6%82%E5%9B%BE%E5%BD%A2/10517125
@@ -18,45 +16,29 @@
 
 [利萨茹曲线](https://baike.baidu.com/item/利萨茹曲线/4925397)由以下[参数方程](https://baike.baidu.com/item/参数方程)定义：
 
-$$
-x(θ)=asinθ
-$$
+$$x(θ)=asinθ$$
 
-$$
-y(θ)=bsin(nθ+φ)
-$$
+$$y(θ)=bsin(nθ+φ)$$
 
 其中
 
-$$
-n\geqslant1
-$$
+$$n\geqslant1$$
 
 且
 
-$$
-0\leqslantφ\leqslant\frac{\pi}{2}
-$$
+$$0\leqslantφ\leqslant\frac{\pi}{2}$$
 
 n称为曲线的参数，是两个正弦振动的频率比。若比例为有理数，则
 
-$$
-n=\frac{q}{p}
-$$
+$$n=\frac{q}{p}$$
 
 参数方程可以写作:
 
-$$
-x(θ)=asin(pθ)
-$$
+$$x(θ)=asin(pθ)$$
 
-$$
-y(θ)=bsin(qθ+φ)
-$$
+$$y(θ)=bsin(qθ+φ)$$
 
-$$
-0\leqslantθ\leqslant2\pi
-$$
+$$0\leqslantθ\leqslant2\pi$$
 
 <img src="F:/Embedded%20Development/Software/STM32%20Project/Base%20MKD%20Keil/Lisaru/image/uTools_1657631836871.png" alt="lissajous fijures"  />
 
