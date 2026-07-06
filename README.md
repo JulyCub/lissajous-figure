@@ -15,8 +15,9 @@
 **利萨茹(Lissajous)曲线**（又称**利萨茹图形**、**李萨如图形**或**鲍迪奇(Bowditch)曲线**）是两个沿着互相垂直方向的正弦振动的合成的轨迹。
 
 [利萨茹曲线](https://baike.baidu.com/item/利萨茹曲线/4925397)由以下[参数方程](https://baike.baidu.com/item/参数方程)定义：
-
-$$x(θ)=asinθ$$
+$$
+x(θ)=asinθ
+$$
 
 $$y(θ)=bsin(nθ+φ)$$
 
